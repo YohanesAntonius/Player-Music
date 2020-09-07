@@ -6,7 +6,7 @@ package player;
     import javax.swing.UIManager;
 /**
  *
- * @author Lenovo
+ * @author Yohanes Antonius
  */
 public class Utama extends javax.swing.JFrame {
     Playlist pl = new Playlist();
